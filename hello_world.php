@@ -1,2 +1,2 @@
 <?php
-print_r("1 sdc dsc d");
+print_r("1 sdc dsc d ывма авмв");
