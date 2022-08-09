@@ -92,11 +92,11 @@
 ## работа с  изображениями
 
 2222222222222222222222
-![alt text](1.png "Title")
+![alt text](1.png "Title")  swdews
 
  123123  sdvsdvsd dsvsd cx    c cxd cfdf sdvdsds 
 ![alt text](2.png "Title")
-## ссылки
-## таблицы
+## ссылки 
+## таблицы 
 ## цитаты
 ## выводы
