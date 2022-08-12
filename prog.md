@@ -31,6 +31,15 @@
 * 12 git branch  имя - создать ветку
 
 
+
+
+* 13 git clone https://github.com/ilnar-geekbrains/GitInstructionWorkshop_2022_08_01.git  скопировать репозиторий
+* 14 git remote add origin https://github.com/Almsit/test.git  подключчить
+* 15 git branch -M master указать
+* 16 git push -u origin master записать
+* 17 git pull     обновить с репозитория
+
+
     #  Заголовок первого уровня
     ### Заголовок третьего уровня
     ###### Заголовок шестого уровня
